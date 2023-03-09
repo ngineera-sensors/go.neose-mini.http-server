@@ -1,2 +1,4 @@
 /neose-mini-controller.exe
 build*
+rsrc_windows_386.syso
+rsrc_windows_amd64.syso

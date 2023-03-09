@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/JuulLabs-OSS/cbgo v0.0.2 // indirect
 	github.com/arkhipovkm/go.neose-mini.firmata-client v0.0.0-20230309164849-449650338470 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/creack/goselect v0.1.2 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
@@ -13,13 +14,19 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/muka/go-bluetooth v0.0.0-20221213043340-85dc80edc4e1 // indirect
+	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/saltosystems/winrt-go v0.0.0-20230124093143-967a889c6c8f // indirect
 	github.com/sigurn/crc8 v0.0.0-20220107193325-2243fe600f9f // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
+	github.com/tc-hib/go-winres v0.3.1 // indirect
+	github.com/tc-hib/winres v0.1.6 // indirect
 	github.com/tinygo-org/cbgo v0.0.4 // indirect
+	github.com/urfave/cli/v2 v2.3.0 // indirect
 	go.bug.st/serial v1.5.0 // indirect
 	gobot.io/x/gobot v1.16.0 // indirect
+	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d // indirect
 	golang.org/x/sys v0.6.0 // indirect
 	tinygo.org/x/bluetooth v0.6.0 // indirect
 )
