@@ -121,8 +121,10 @@ func main() {
 
 	http.HandleFunc("/led/on", LedOn((neose)))
 	http.HandleFunc("/led/off", LedOff((neose)))
+
 	http.HandleFunc("/lcs/on", LcsOn((neose)))
 	http.HandleFunc("/lcs/off", LcsOff((neose)))
+	
 	http.HandleFunc("/fan/on", FanOn((neose)))
 	http.HandleFunc("/fan/off", FanOff((neose)))
 
